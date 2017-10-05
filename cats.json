@@ -25,9 +25,12 @@
 			"age": "-3"
 		},
 		{
-			"photo": "https://cdn.rawgit.com/dumaslea/mv-data/b20a81974d082a3471e48bfd5413cdc49e549227/images/IMG_6124.JPG",
-			"name": "Zelda ",
-			"age": "1"
+			"name": "Raccoon",
+			"age": "28"
+		},
+		{
+			"photo": "https://cdn.rawgit.com/dumaslea/mv-data/296ae5c0c3491d244e0f0760ceb4a7b69dc68a9a/images/IMG_6125.JPG",
+			"name": "Zelda "
 		}
 	]
 }
